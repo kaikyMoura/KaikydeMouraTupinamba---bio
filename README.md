@@ -2,5 +2,10 @@
 
 **Sobre mim**
 
-Estudante de Análise e Desemvolvimento de Sistemas.
-Estudando java e Front-end
+Olá me chamo Kaiky😁
+
+Sou estudante de ADS na Faculdade Senac.
+Atualmente estou focado em java e javascript
+
+
+Java Python SQL HTML CSS JavaScript
