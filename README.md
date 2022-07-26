@@ -1,4 +1,4 @@
-# KaikydeMouraTupinambá--bio
+# About me:
 
 **Sobre mim**
 
@@ -10,4 +10,4 @@ Atualmente estou focado em java e javascript.
 
 # Linguagens
 
-Java Python SQL HTML CSS JavaScript
+Java Python SQL HTML CSS JavaScript TypeScript
